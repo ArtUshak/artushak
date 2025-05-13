@@ -8,4 +8,4 @@ I am Artiom Khandamirov.
 - [MAI](https://mai.ru/) alumni
 - Java developer at [Sberbank](https://sberbank.ru/)
 - Mail: t9max@yandex.ru and artushak@artushak.ru
-- More info at my personal website [artushak.ru](https://artushak.ru) (in russian)
+- More info at my personal website [artushak.ru](https://artushak.ru) (in Russian)
